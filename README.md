@@ -14,3 +14,5 @@ Provide risk forecasts by Barra China Equity Model
 5. `utility.py` Some utility functions.
 
 6. `results.py` Store the useful results of this model including: factor results attribution, risk forecast, effective factors selection. 
+
+7. `final.py` Functions used to connect with UI.
