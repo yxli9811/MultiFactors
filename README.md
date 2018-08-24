@@ -16,3 +16,5 @@ Provide risk forecasts by Barra China Equity Model
 6. `results.py` Store the useful results of this model including: factor results attribution, risk forecast, effective factors selection. 
 
 7. `final.py` Functions used to connect with UI.
+
+8. `UIconnect.py` is the mainfunction of UI system.
